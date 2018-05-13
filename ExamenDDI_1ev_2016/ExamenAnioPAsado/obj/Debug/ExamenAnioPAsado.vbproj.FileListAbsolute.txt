@@ -1,0 +1,30 @@
+C:\Users\alumnoDAM\AppData\Local\Temporary Projects\ExamenAnioPAsado\bin\Debug\ExamenAnioPAsado.exe.config
+D:\DDI\Visual Studio 2012\Projects\ExamenAnioPAsado\ExamenAnioPAsado\bin\Debug\ExamenAnioPAsado.exe.config
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\bin\Debug\ExamenAnioPAsado.exe.config
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\bin\Debug\ExamenAnioPAsado.exe
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\bin\Debug\ExamenAnioPAsado.pdb
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\bin\Debug\ExamenAnioPAsado.xml
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.FAlta.resources
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.FConsulta.resources
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.FPrincipal.resources
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.Resources.resources
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.vbproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.exe
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.xml
+C:\Users\Mario\Desktop\ExamenAnioPAsado\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\bin\Debug\ExamenAnioPAsado.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\bin\Debug\ExamenAnioPAsado.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\bin\Debug\ExamenAnioPAsado.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\bin\Debug\ExamenAnioPAsado.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.FAlta.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.FConsulta.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.FPrincipal.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\ExamenDDI_1ev_2016\ExamenAnioPAsado\obj\Debug\ExamenAnioPAsado.pdb

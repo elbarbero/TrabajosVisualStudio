@@ -1,0 +1,44 @@
+﻿<Window x:Class="MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Validación de Cuenta Corriente" Height="350" Width="735.448">
+
+    <Grid ShowGridLines="True" HorizontalAlignment="Center" VerticalAlignment="Center" Background="AliceBlue" Margin="20,38,9,25" Width="698" Height="256">
+        <StackPanel VerticalAlignment="Center" Height="58" Margin="282,59,51,125" >
+            <DockPanel HorizontalAlignment="Left" Height="55" LastChildFill="False" Margin="10,0,0,0" Width="75">
+                <TextBlock x:Name="txtEntidad" Height="32" Margin="0,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74" Background="AntiqueWhite" TextAlignment="Center"/>
+            </DockPanel>
+            <DockPanel Height="55" Width="75" Margin="-115,-53,0,0" LastChildFill="false">
+                <TextBox x:Name="txtOficina" Height="32" Margin="0,20,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="74" MaxLength="4" 
+                      TextAlignment="Center"/>
+            </DockPanel>
+            <DockPanel Height="55" Margin="165,-57,155,0" LastChildFill="false">
+                <TextBox x:Name="txtDC" Height="32" Margin="0,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="44" MaxLength="2" TextAlignment="Center"/>
+            </DockPanel>
+            <DockPanel Height="55" Margin="215,-57,0,0" LastChildFill="false">
+                <TextBox x:Name="txtNumCuenta" Height="32" Margin="0,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="149" MaxLength="10" TextAlignment="Center"/>
+            </DockPanel>
+        </StackPanel>
+
+        <ListView Height="236" Margin="10,10,0,0" Name="lstBank" VerticalAlignment="Top" Width="180" HorizontalAlignment="Left" Cursor="Hand">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Banco" DisplayMemberBinding="{Binding nombre}"  />
+                    <GridViewColumn Header="Código" DisplayMemberBinding="{Binding codigo}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="btnValidar" Content="Validar" HorizontalAlignment="Left" Height="32" Margin="380,160,0,0" VerticalAlignment="Top" Width="104"/>
+        <Label Content="Entidad" HorizontalAlignment="Left" Height="28" Margin="291,31,0,0" VerticalAlignment="Top" Width="58" IsEnabled="False"/>
+        <Label Content="Oficina" HorizontalAlignment="Left" Height="28" Margin="380,31,0,0" VerticalAlignment="Top" Width="46" IsEnabled="False"/>
+        <Label Content="DC" HorizontalAlignment="Left" Height="28" Margin="450,31,0,0" VerticalAlignment="Top" Width="58" IsEnabled="False"/>
+        <Label Content="Nº Cuenta" HorizontalAlignment="Left" Height="28" Margin="540,31,0,0" VerticalAlignment="Top" Width="135" IsEnabled="False"/>
+        <DockPanel HorizontalAlignment="Left" Height="23" LastChildFill="False" Margin="461,64,0,0" VerticalAlignment="Top" Width="66"/>
+    </Grid>
+
+
+
+
+
+
+</Window>

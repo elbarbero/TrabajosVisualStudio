@@ -1,0 +1,14 @@
+C:\Users\alumnoDAM\AppData\Local\Temporary Projects\P_Academia_2018\bin\Debug\P_Academia_2018.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\bin\Debug\P_Academia_2018.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\bin\Debug\P_Academia_2018.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\bin\Debug\P_Academia_2018.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\bin\Debug\P_Academia_2018.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\obj\Debug\P_Academia_2018.FAltaResult.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\obj\Debug\P_Academia_2018.FPrincipal.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\obj\Debug\P_Academia_2018.Resources.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\obj\Debug\P_Academia_2018.vbproj.GenerateResource.Cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\obj\Debug\P_Academia_2018.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\obj\Debug\P_Academia_2018.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\obj\Debug\P_Academia_2018.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\obj\Debug\P_Academia_2018.FConsulta.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Academia_2018\P_Academia_2018\obj\Debug\P_Academia_2018.FConsultaAlumnos.resources

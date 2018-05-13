@@ -1,0 +1,89 @@
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FAltaProductos.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FPrincipal.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.Resources.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbproj.GenerateResource.Cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbproj.CoreCompileInputs.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe.config
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.pdb
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.xml
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.exe
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.xml
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.pdb
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbprojResolveAssemblyReference.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FConsultaProductos.resources
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe.config
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.pdb
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.xml
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbprojResolveAssemblyReference.cache
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FAltaProductos.resources
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FConsultaProductos.resources
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FPrincipal.resources
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.Resources.resources
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbproj.GenerateResource.Cache
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.exe
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.xml
+C:\Users\R30\Dropbox\Proyectos\VisualStudio\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.pdb
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe.config
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.exe
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.xml
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.pdb
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.pdb
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.xml
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbprojResolveAssemblyReference.cache
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FAltaProductos.resources
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FConsultaProductos.resources
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FPrincipal.resources
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.Resources.resources
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbproj.GenerateResource.Cache
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FModificacionProductos.resources
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe.config
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.pdb
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.xml
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbprojResolveAssemblyReference.cache
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FAltaProductos.resources
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FConsultaProductos.resources
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FModificacionProductos.resources
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FPrincipal.resources
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.Resources.resources
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbproj.GenerateResource.Cache
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.exe
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.xml
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.pdb
+C:\Users\R30\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FBajaProductos.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe.config
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.pdb
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.xml
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbprojResolveAssemblyReference.cache
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FAltaProductos.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FBajaProductos.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FConsultaProductos.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FModificacionProductos.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FPrincipal.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.Resources.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbproj.GenerateResource.Cache
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbproj.CoreCompileInputs.cache
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.exe
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.xml
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.pdb
+C:\Users\alumnoDAM\Desktop\Mantenimiento_EcoPrime\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FBajaProductos.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe.config
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.exe
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.pdb
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\bin\Debug\EcoPrime_Manten.xml
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbprojResolveAssemblyReference.cache
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FAltaProductos.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FBajaProductos.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FConsultaProductos.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FModificacionProductos.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.FPrincipal.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.Resources.resources
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbproj.GenerateResource.Cache
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.vbproj.CoreCompileInputs.cache
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.exe
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.xml
+C:\Users\Mario-Portatil\Desktop\Mantenimiento_EcoPrime\EcoPrime_Manten\EcoPrime_Manten\obj\Debug\EcoPrime_Manten.pdb

@@ -1,0 +1,32 @@
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\bin\Debug\EX_2_BD_Mario_Barbero.exe.config
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\bin\Debug\EX_2_BD_Mario_Barbero.exe
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\bin\Debug\EX_2_BD_Mario_Barbero.pdb
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\bin\Debug\EX_2_BD_Mario_Barbero.xml
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.vbprojResolveAssemblyReference.cache
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.FPrincipal.resources
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.Resources.resources
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.vbproj.GenerateResource.Cache
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.vbproj.CoreCompileInputs.cache
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.exe
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.xml
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.pdb
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.FAlta.resources
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.FBaja.resources
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.FConsulta.resources
+C:\Users\Mario-Portatil\Desktop\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.FModificar.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\bin\Debug\EX_2_BD_Mario_Barbero.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\bin\Debug\EX_2_BD_Mario_Barbero.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\bin\Debug\EX_2_BD_Mario_Barbero.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\bin\Debug\EX_2_BD_Mario_Barbero.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.FAlta.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.FBaja.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.FConsulta.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.FModificar.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.FPrincipal.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\EX_2_BD_Mario_Barbero\EX_2_BD_Mario_Barbero\obj\Debug\EX_2_BD_Mario_Barbero.pdb

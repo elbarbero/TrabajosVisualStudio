@@ -1,0 +1,62 @@
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MainWindow.baml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MainWindow.g.vb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Application.g.vb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta_MarkupCompile.cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.g.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MARIO_Ej3_NumCuenta.Resources.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.vbproj.GenerateResource.Cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MainWindow.baml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MainWindow.g.vb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Application.g.vb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta_MarkupCompile.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.g.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MARIO_Ej3_NumCuenta.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.exe.config
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.exe
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.pdb
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.xml
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MainWindow.baml
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MainWindow.g.vb
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Application.g.vb
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta_MarkupCompile.cache
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.g.resources
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MARIO_Ej3_NumCuenta.Resources.resources
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.vbproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.exe
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.xml
+C:\Users\Mario\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.pdb
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.exe.config
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.exe
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.xml
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.pdb
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.exe
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.pdb
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\bin\Debug\Ej3_NumCuenta.xml
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.vbprojResolveAssemblyReference.cache
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MainWindow.baml
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MainWindow.g.vb
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Application.g.vb
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta_MarkupCompile.cache
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.g.resources
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\MARIO_Ej3_NumCuenta.Resources.resources
+C:\Users\alumnoDAM\Desktop\MARIO_Ej3_NumCuenta\Ej3_NumCuenta\obj\Debug\Ej3_NumCuenta.vbproj.GenerateResource.Cache

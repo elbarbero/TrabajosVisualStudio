@@ -1,0 +1,26 @@
+C:\Users\alumnoDAM\AppData\Local\Temporary Projects\P_Aerolinea_BD\bin\Debug\P_Aerolinea_BD.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\bin\Debug\P_Aerolinea_BD.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\bin\Debug\P_Aerolinea_BD.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\bin\Debug\P_Aerolinea_BD.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\bin\Debug\P_Aerolinea_BD.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.FPrincipal.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.Resources.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.vbproj.GenerateResource.Cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.FVenta.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\bin\Debug\P_Aerolinea_BD.exe.config
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\bin\Debug\P_Aerolinea_BD.exe
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\bin\Debug\P_Aerolinea_BD.pdb
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\bin\Debug\P_Aerolinea_BD.xml
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.FPrincipal.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.FVenta.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.Resources.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.vbproj.GenerateResource.Cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.vbproj.CoreCompileInputs.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.exe
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.xml
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.pdb
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.vbprojResolveAssemblyReference.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_Aerolinea_BD\P_Aerolinea_BD\obj\Debug\P_Aerolinea_BD.FEmail.resources

@@ -1,0 +1,11 @@
+C:\Users\alumnoDAM\AppData\Local\Temporary Projects\Ejemplo_EnvioDeEmail\bin\Debug\Ejemplo_EnvioDeEmail.exe.config
+C:\Users\alumnoDAM\Documents\Visual Studio 2012\Projects\Ejemplo_EnvioDeEmail\Ejemplo_EnvioDeEmail\bin\Debug\Ejemplo_EnvioDeEmail.exe.config
+C:\Users\alumnoDAM\Documents\Visual Studio 2012\Projects\Ejemplo_EnvioDeEmail\Ejemplo_EnvioDeEmail\bin\Debug\Ejemplo_EnvioDeEmail.exe
+C:\Users\alumnoDAM\Documents\Visual Studio 2012\Projects\Ejemplo_EnvioDeEmail\Ejemplo_EnvioDeEmail\bin\Debug\Ejemplo_EnvioDeEmail.pdb
+C:\Users\alumnoDAM\Documents\Visual Studio 2012\Projects\Ejemplo_EnvioDeEmail\Ejemplo_EnvioDeEmail\bin\Debug\Ejemplo_EnvioDeEmail.xml
+C:\Users\alumnoDAM\Documents\Visual Studio 2012\Projects\Ejemplo_EnvioDeEmail\Ejemplo_EnvioDeEmail\obj\Debug\Ejemplo_EnvioDeEmail.Form1.resources
+C:\Users\alumnoDAM\Documents\Visual Studio 2012\Projects\Ejemplo_EnvioDeEmail\Ejemplo_EnvioDeEmail\obj\Debug\Ejemplo_EnvioDeEmail.Resources.resources
+C:\Users\alumnoDAM\Documents\Visual Studio 2012\Projects\Ejemplo_EnvioDeEmail\Ejemplo_EnvioDeEmail\obj\Debug\Ejemplo_EnvioDeEmail.vbproj.GenerateResource.Cache
+C:\Users\alumnoDAM\Documents\Visual Studio 2012\Projects\Ejemplo_EnvioDeEmail\Ejemplo_EnvioDeEmail\obj\Debug\Ejemplo_EnvioDeEmail.exe
+C:\Users\alumnoDAM\Documents\Visual Studio 2012\Projects\Ejemplo_EnvioDeEmail\Ejemplo_EnvioDeEmail\obj\Debug\Ejemplo_EnvioDeEmail.xml
+C:\Users\alumnoDAM\Documents\Visual Studio 2012\Projects\Ejemplo_EnvioDeEmail\Ejemplo_EnvioDeEmail\obj\Debug\Ejemplo_EnvioDeEmail.pdb

@@ -1,0 +1,15 @@
+C:\Users\alumnoDAM\AppData\Local\Temporary Projects\Ejemplo_ListView\bin\Debug\Ejemplo_ListView.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\bin\Debug\Ejemplo_ListView.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\bin\Debug\Ejemplo_ListView.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\bin\Debug\Ejemplo_ListView.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\bin\Debug\Ejemplo_ListView.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\obj\Debug\MainWindow.baml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\obj\Debug\MainWindow.g.vb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\obj\Debug\Application.g.vb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\obj\Debug\Ejemplo_ListView_MarkupCompile.cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\obj\Debug\Ejemplo_ListView.g.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\obj\Debug\Ejemplo_ListView.Resources.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\obj\Debug\Ejemplo_ListView.vbproj.GenerateResource.Cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\obj\Debug\Ejemplo_ListView.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\obj\Debug\Ejemplo_ListView.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_ListView\Ejemplo_ListView\obj\Debug\Ejemplo_ListView.pdb

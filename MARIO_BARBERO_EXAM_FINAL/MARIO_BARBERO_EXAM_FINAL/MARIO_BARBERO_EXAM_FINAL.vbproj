@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3EFF02DB-9863-4C42-9FAC-B9D42B682042}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>MARIO_BARBERO_EXAM_FINAL.My.MyApplication</StartupObject>
+    <RootNamespace>MARIO_BARBERO_EXAM_FINAL</RootNamespace>
+    <AssemblyName>MARIO_BARBERO_EXAM_FINAL</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>MARIO_BARBERO_EXAM_FINAL.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>MARIO_BARBERO_EXAM_FINAL.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CONTROLADOR\ModuleControl.vb" />
+    <Compile Include="MODULO\ClaseCliente.vb" />
+    <Compile Include="MODULO\ClaseVehiculo.vb" />
+    <Compile Include="MODULO\ModuloDatos.vb" />
+    <Compile Include="VISTA\FConcesionario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FConcesionario.Designer.vb">
+      <DependentUpon>FConcesionario.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="VISTA\FConsultarClientes.Designer.vb">
+      <DependentUpon>FConsultarClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FConsultarClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FConsultarVentas.Designer.vb">
+      <DependentUpon>FConsultarVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FConsultarVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FEntradaClientes.Designer.vb">
+      <DependentUpon>FEntradaClientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FEntradaClientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VISTA\FMostrarVehiculos.Designer.vb">
+      <DependentUpon>FMostrarVehiculos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VISTA\FMostrarVehiculos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="VISTA\FConcesionario.resx">
+      <DependentUpon>FConcesionario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FConsultarClientes.resx">
+      <DependentUpon>FConsultarClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FConsultarVentas.resx">
+      <DependentUpon>FConsultarVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FEntradaClientes.resx">
+      <DependentUpon>FEntradaClientes.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VISTA\FMostrarVehiculos.resx">
+      <DependentUpon>FMostrarVehiculos.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\concesionario.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\citroen.jpg" />
+    <Content Include="Resources\hyundai.jpg" />
+    <Content Include="Resources\nissan.jpg" />
+    <Content Include="Resources\vespa.jpg" />
+    <Content Include="Resources\vito.jpg" />
+    <Content Include="Resources\yamaha.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

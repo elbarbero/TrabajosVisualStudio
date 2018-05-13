@@ -1,0 +1,24 @@
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\bin\Debug\Ejemplo_Timer.exe.config
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\bin\Debug\Ejemplo_Timer.exe
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\bin\Debug\Ejemplo_Timer.pdb
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\bin\Debug\Ejemplo_Timer.xml
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.Resources.resources
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.vbproj.GenerateResource.Cache
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.exe
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.xml
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.pdb
+C:\Users\Mario\source\repos\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.F_Timer.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\bin\Debug\Ejemplo_Timer.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\bin\Debug\Ejemplo_Timer.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\bin\Debug\Ejemplo_Timer.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\bin\Debug\Ejemplo_Timer.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.F_Timer.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ejemplo_Timer\Ejemplo_Timer\obj\Debug\Ejemplo_Timer.pdb

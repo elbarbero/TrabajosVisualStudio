@@ -1,0 +1,36 @@
+C:\Users\Usuario\AppData\Local\Temporary Projects\P_XML\bin\Debug\P_XML.exe.config
+C:\Users\Usuario\AppData\Local\Temporary Projects\P_XML\bin\Debug\P_XML.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\P_XML\bin\Debug\P_XML.pdb
+C:\Users\Usuario\AppData\Local\Temporary Projects\P_XML\bin\Debug\P_XML.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\P_XML\obj\Debug\P_XML.Form1.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\P_XML\obj\Debug\P_XML.Resources.resources
+C:\Users\Usuario\AppData\Local\Temporary Projects\P_XML\obj\Debug\P_XML.vbproj.GenerateResource.Cache
+C:\Users\Usuario\AppData\Local\Temporary Projects\P_XML\obj\Debug\P_XML.exe
+C:\Users\Usuario\AppData\Local\Temporary Projects\P_XML\obj\Debug\P_XML.xml
+C:\Users\Usuario\AppData\Local\Temporary Projects\P_XML\obj\Debug\P_XML.pdb
+D:\NuevosModulos\DesarrolloInterfaces\Examenes\Curso2017_2018\P_XML\P_XML\bin\Debug\P_XML.exe.config
+D:\NuevosModulos\DesarrolloInterfaces\Examenes\Curso2017_2018\P_XML\P_XML\obj\Debug\P_XML.exe
+D:\NuevosModulos\DesarrolloInterfaces\Examenes\Curso2017_2018\P_XML\P_XML\obj\Debug\P_XML.xml
+D:\NuevosModulos\DesarrolloInterfaces\Examenes\Curso2017_2018\P_XML\P_XML\obj\Debug\P_XML.pdb
+D:\NuevosModulos\DesarrolloInterfaces\Ejercicios2017\P_XML\P_XML\bin\Debug\P_XML.exe.config
+D:\NuevosModulos\DesarrolloInterfaces\Ejercicios2017\P_XML\P_XML\obj\Debug\P_XML.exe
+D:\NuevosModulos\DesarrolloInterfaces\Ejercicios2017\P_XML\P_XML\obj\Debug\P_XML.xml
+D:\NuevosModulos\DesarrolloInterfaces\Ejercicios2017\P_XML\P_XML\obj\Debug\P_XML.pdb
+D:\NuevosModulos\DesarrolloInterfaces\Ejercicios2017\P_XML\P_XML\bin\Debug\P_XML.exe
+D:\NuevosModulos\DesarrolloInterfaces\Ejercicios2017\P_XML\P_XML\bin\Debug\P_XML.pdb
+D:\NuevosModulos\DesarrolloInterfaces\Ejercicios2017\P_XML\P_XML\bin\Debug\P_XML.xml
+D:\NuevosModulos\DesarrolloInterfaces\Ejercicios2017\P_XML\P_XML\obj\Debug\P_XML.Form1.resources
+D:\NuevosModulos\DesarrolloInterfaces\Ejercicios2017\P_XML\P_XML\obj\Debug\P_XML.Resources.resources
+D:\NuevosModulos\DesarrolloInterfaces\Ejercicios2017\P_XML\P_XML\obj\Debug\P_XML.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\bin\Debug\P_XML.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\bin\Debug\P_XML.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\bin\Debug\P_XML.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\bin\Debug\P_XML.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\obj\Debug\P_XML.Form1.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\obj\Debug\P_XML.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\obj\Debug\P_XML.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\obj\Debug\P_XML.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\obj\Debug\P_XML.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\obj\Debug\P_XML.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\obj\Debug\P_XML.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_XML\P_XML\obj\Debug\P_XML.vbprojResolveAssemblyReference.cache

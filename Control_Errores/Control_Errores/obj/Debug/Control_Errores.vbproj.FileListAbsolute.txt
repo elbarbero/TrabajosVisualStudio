@@ -1,0 +1,12 @@
+C:\Users\alumnoDAM\AppData\Local\Temporary Projects\Control_Errores\bin\Debug\Control_Errores.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\bin\Debug\Control_Errores.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\bin\Debug\Control_Errores.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\bin\Debug\Control_Errores.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\bin\Debug\Control_Errores.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\obj\Debug\Control_Errores.Form1.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\obj\Debug\Control_Errores.Resources.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\obj\Debug\Control_Errores.vbproj.GenerateResource.Cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\obj\Debug\Control_Errores.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\obj\Debug\Control_Errores.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\obj\Debug\Control_Errores.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Control_Errores\Control_Errores\obj\Debug\Control_Errores.Form2.resources

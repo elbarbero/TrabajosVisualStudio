@@ -1,0 +1,15 @@
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\bin\Debug\Examen_BD_2016.exe.config
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\bin\Debug\Examen_BD_2016.exe
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\bin\Debug\Examen_BD_2016.pdb
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\bin\Debug\Examen_BD_2016.xml
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.vbprojResolveAssemblyReference.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.FAlta.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.Resources.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.vbproj.GenerateResource.Cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.vbproj.CoreCompileInputs.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.exe
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.xml
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.pdb
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.AlumnoNuevo.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.FPrincipal.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Examen_BD_2016\Examen_BD_2016\obj\Debug\Examen_BD_2016.FConsultarvb.resources

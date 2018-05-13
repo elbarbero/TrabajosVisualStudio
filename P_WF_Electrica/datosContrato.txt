@@ -1,0 +1,12 @@
+NOTARIO
+ciudad,nombre;numeroProtocolo;dia;mes;año;ciudadMerca;numeroTomo;numeroFolio;numeroHoja;numeroInscripcion;
+Burgos;Jose;48547T;5;04;2002;Sevilla;5;10;3;54185;
+REPRESENTANTE1
+nombre;cargo;dia;mes;año;ciudadNotario;nombreNotario;numProtocoloNotario;
+Lucia;VicePresidenta;12;03;2007;Sevilla;Jose;54185;
+PRESTADOR
+nombre;nacionalidad;ciudad;direccion;numeroDireccion;cif;telefono;email;banco;entidadBanco;oficinaBanco;dcBanco;numCuentaBanco;
+Verduricas S.L.;Española;Burgos;Avda/Castilla y Leon;4;568544656-A;684343327;verduricas@gmail.com;BBVA;2574;5431;93;6576536656;
+REPRESENTANTE2
+nombre;cargo;dia;mes;año;ciudadNotario;nombreNotario;numProtocoloNotario;
+Diego;Secretario;30;01;2004;Madrid;Marta;56585;

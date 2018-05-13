@@ -1,0 +1,54 @@
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\MainWindow.g.vb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Application.g.vb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas_MarkupCompile.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas_MarkupCompile.lref
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\MainWindow.baml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.g.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.vbprojResolveAssemblyReference.cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\MainWindow.g.vb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Application.g.vb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas_MarkupCompile.cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas_MarkupCompile.lref
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\MainWindow.baml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.g.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.Resources.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.vbproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.exe.config
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.exe
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.pdb
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.xml
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\MainWindow.g.vb
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Application.g.vb
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas_MarkupCompile.cache
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas_MarkupCompile.lref
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\MainWindow.baml
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.g.resources
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.Resources.resources
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.vbproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.exe
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.xml
+C:\Users\Mario\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.pdb
+C:\Users\alumnoDAM\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\bin\Debug\Ej4_Fechas.exe.config
+C:\Users\alumnoDAM\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.exe
+C:\Users\alumnoDAM\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.xml
+C:\Users\alumnoDAM\Desktop\MARIO_Ej4_Fechas\Ej4_Fechas\obj\Debug\Ej4_Fechas.pdb

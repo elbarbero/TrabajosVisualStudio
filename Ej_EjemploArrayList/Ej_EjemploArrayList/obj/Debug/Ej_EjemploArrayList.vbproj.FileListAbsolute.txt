@@ -1,0 +1,21 @@
+C:\Users\alumnoDAM\AppData\Local\Temporary Projects\Ej_EjemploArrayList\bin\Debug\Ej_EjemploArrayList.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\bin\Debug\Ej_EjemploArrayList.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\bin\Debug\Ej_EjemploArrayList.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\bin\Debug\Ej_EjemploArrayList.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\bin\Debug\Ej_EjemploArrayList.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.FInical.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.FSalida.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.Resources.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.vbproj.GenerateResource.Cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.FInical.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.FSalida.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\Ej_EjemploArrayList\Ej_EjemploArrayList\obj\Debug\Ej_EjemploArrayList.pdb

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="BDEjemplo2018DataSet" targetNamespace="http://tempuri.org/BDEjemplo2018DataSet.xsd" xmlns:mstns="http://tempuri.org/BDEjemplo2018DataSet.xsd" xmlns="http://tempuri.org/BDEjemplo2018DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="BDEjemplo2018ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BDEjemplo2018ConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.P_EjemploBD.My.MySettings.GlobalReference.Default.BDEjemplo2018ConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TableFamiliasTableAdapter" GeneratorDataComponentClassName="TableFamiliasTableAdapter" Name="TableFamilias" UserDataComponentName="TableFamiliasTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BDEjemplo2018ConnectionString (MySettings)" DbObjectName="BDEjemplo2018.dbo.TableFamilias" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        id_Familia, Descripcion, id_Proveedor
+FROM            TableFamilias</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id_Familia" DataSetColumn="id_Familia" />
+              <Mapping SourceColumn="Descripcion" DataSetColumn="Descripcion" />
+              <Mapping SourceColumn="id_Proveedor" DataSetColumn="id_Proveedor" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TableProveedorTableAdapter" GeneratorDataComponentClassName="TableProveedorTableAdapter" Name="TableProveedor" UserDataComponentName="TableProveedorTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BDEjemplo2018ConnectionString (MySettings)" DbObjectName="BDEjemplo2018.dbo.TableProveedor" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        id_Proveedor, Nombre
+FROM            TableProveedor</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id_Proveedor" DataSetColumn="id_Proveedor" />
+              <Mapping SourceColumn="Nombre" DataSetColumn="Nombre" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="TableFamilias1TableAdapter" GeneratorDataComponentClassName="TableFamilias1TableAdapter" Name="TableFamilias1" UserDataComponentName="TableFamilias1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BDEjemplo2018ConnectionString (MySettings)" DbObjectName="BDEjemplo2018.dbo.TableFamilias" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>DELETE FROM [TableFamilias] WHERE (([id_Familia] = @Original_id_Familia) AND ([Descripcion] = @Original_Descripcion) AND ([id_Proveedor] = @Original_id_Proveedor) AND ([descuento] = @Original_descuento))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_id_Familia" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="id_Familia" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_Descripcion" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Descripcion" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_id_Proveedor" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="id_Proveedor" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_descuento" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="descuento" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>INSERT INTO [TableFamilias] ([id_Familia], [Descripcion], [id_Proveedor], [descuento]) VALUES (@id_Familia, @Descripcion, @id_Proveedor, @descuento);
+SELECT id_Familia, Descripcion, id_Proveedor, descuento FROM TableFamilias WHERE (id_Familia = @id_Familia)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@id_Familia" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="id_Familia" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Descripcion" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Descripcion" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@id_Proveedor" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="id_Proveedor" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@descuento" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="descuento" SourceColumnNullMapping="false" SourceVersion="Current" />
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        id_Familia, Descripcion, id_Proveedor, descuento
+FROM            TableFamilias</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>UPDATE [TableFamilias] SET [id_Familia] = @id_Familia, [Descripcion] = @Descripcion, [id_Proveedor] = @id_Proveedor, [descuento] = @descuento WHERE (([id_Familia] = @Original_id_Familia) AND ([Descripcion] = @Original_Descripcion) AND ([id_Proveedor] = @Original_id_Proveedor) AND ([descuento] = @Original_descuento));
+SELECT id_Familia, Descripcion, id_Proveedor, descuento FROM TableFamilias WHERE (id_Familia = @id_Familia)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@id_Familia" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="id_Familia" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Descripcion" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Descripcion" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@id_Proveedor" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="id_Proveedor" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@descuento" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="descuento" SourceColumnNullMapping="false" SourceVersion="Current" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_id_Familia" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="id_Familia" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="String" Direction="Input" ParameterName="@Original_Descripcion" Precision="0" ProviderType="NVarChar" Scale="0" Size="0" SourceColumn="Descripcion" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_id_Proveedor" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="id_Proveedor" SourceColumnNullMapping="false" SourceVersion="Original" />
+                      <Parameter AllowDbNull="false" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_descuento" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="descuento" SourceColumnNullMapping="false" SourceVersion="Original" />
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id_Familia" DataSetColumn="id_Familia" />
+              <Mapping SourceColumn="Descripcion" DataSetColumn="Descripcion" />
+              <Mapping SourceColumn="id_Proveedor" DataSetColumn="id_Proveedor" />
+              <Mapping SourceColumn="descuento" DataSetColumn="descuento" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="BDEjemplo2018DataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="BDEjemplo2018DataSet" msprop:Generator_UserDSName="BDEjemplo2018DataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TableFamilias" msprop:Generator_TableClassName="TableFamiliasDataTable" msprop:Generator_TableVarName="tableTableFamilias" msprop:Generator_TablePropName="TableFamilias" msprop:Generator_RowDeletingName="TableFamiliasRowDeleting" msprop:Generator_RowChangingName="TableFamiliasRowChanging" msprop:Generator_RowEvHandlerName="TableFamiliasRowChangeEventHandler" msprop:Generator_RowDeletedName="TableFamiliasRowDeleted" msprop:Generator_UserTableName="TableFamilias" msprop:Generator_RowChangedName="TableFamiliasRowChanged" msprop:Generator_RowEvArgName="TableFamiliasRowChangeEvent" msprop:Generator_RowClassName="TableFamiliasRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_Familia" msprop:Generator_ColumnVarNameInTable="columnid_Familia" msprop:Generator_ColumnPropNameInRow="id_Familia" msprop:Generator_ColumnPropNameInTable="id_FamiliaColumn" msprop:Generator_UserColumnName="id_Familia" type="xs:int" />
+              <xs:element name="Descripcion" msprop:Generator_ColumnVarNameInTable="columnDescripcion" msprop:Generator_ColumnPropNameInRow="Descripcion" msprop:Generator_ColumnPropNameInTable="DescripcionColumn" msprop:Generator_UserColumnName="Descripcion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="id_Proveedor" msprop:Generator_ColumnVarNameInTable="columnid_Proveedor" msprop:Generator_ColumnPropNameInRow="id_Proveedor" msprop:Generator_ColumnPropNameInTable="id_ProveedorColumn" msprop:Generator_UserColumnName="id_Proveedor" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TableProveedor" msprop:Generator_TableClassName="TableProveedorDataTable" msprop:Generator_TableVarName="tableTableProveedor" msprop:Generator_RowChangedName="TableProveedorRowChanged" msprop:Generator_TablePropName="TableProveedor" msprop:Generator_RowDeletingName="TableProveedorRowDeleting" msprop:Generator_RowChangingName="TableProveedorRowChanging" msprop:Generator_RowEvHandlerName="TableProveedorRowChangeEventHandler" msprop:Generator_RowDeletedName="TableProveedorRowDeleted" msprop:Generator_RowClassName="TableProveedorRow" msprop:Generator_UserTableName="TableProveedor" msprop:Generator_RowEvArgName="TableProveedorRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_Proveedor" msprop:Generator_ColumnVarNameInTable="columnid_Proveedor" msprop:Generator_ColumnPropNameInRow="id_Proveedor" msprop:Generator_ColumnPropNameInTable="id_ProveedorColumn" msprop:Generator_UserColumnName="id_Proveedor" type="xs:int" />
+              <xs:element name="Nombre" msprop:Generator_ColumnVarNameInTable="columnNombre" msprop:Generator_ColumnPropNameInRow="Nombre" msprop:Generator_ColumnPropNameInTable="NombreColumn" msprop:Generator_UserColumnName="Nombre">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TableFamilias1" msprop:Generator_TableClassName="TableFamilias1DataTable" msprop:Generator_TableVarName="tableTableFamilias1" msprop:Generator_TablePropName="TableFamilias1" msprop:Generator_RowDeletingName="TableFamilias1RowDeleting" msprop:Generator_RowChangingName="TableFamilias1RowChanging" msprop:Generator_RowEvHandlerName="TableFamilias1RowChangeEventHandler" msprop:Generator_RowDeletedName="TableFamilias1RowDeleted" msprop:Generator_UserTableName="TableFamilias1" msprop:Generator_RowChangedName="TableFamilias1RowChanged" msprop:Generator_RowEvArgName="TableFamilias1RowChangeEvent" msprop:Generator_RowClassName="TableFamilias1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_Familia" msprop:Generator_ColumnVarNameInTable="columnid_Familia" msprop:Generator_ColumnPropNameInRow="id_Familia" msprop:Generator_ColumnPropNameInTable="id_FamiliaColumn" msprop:Generator_UserColumnName="id_Familia" type="xs:int" />
+              <xs:element name="Descripcion" msprop:Generator_ColumnVarNameInTable="columnDescripcion" msprop:Generator_ColumnPropNameInRow="Descripcion" msprop:Generator_ColumnPropNameInTable="DescripcionColumn" msprop:Generator_UserColumnName="Descripcion">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="id_Proveedor" msprop:Generator_ColumnVarNameInTable="columnid_Proveedor" msprop:Generator_ColumnPropNameInRow="id_Proveedor" msprop:Generator_ColumnPropNameInTable="id_ProveedorColumn" msprop:Generator_UserColumnName="id_Proveedor" type="xs:int" />
+              <xs:element name="descuento" msprop:Generator_ColumnVarNameInTable="columndescuento" msprop:Generator_ColumnPropNameInRow="descuento" msprop:Generator_ColumnPropNameInTable="descuentoColumn" msprop:Generator_UserColumnName="descuento" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TableFamilias" />
+      <xs:field xpath="mstns:id_Familia" />
+    </xs:unique>
+    <xs:unique name="TableProveedor_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TableProveedor" />
+      <xs:field xpath="mstns:id_Proveedor" />
+    </xs:unique>
+    <xs:unique name="TableFamilias1_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TableFamilias1" />
+      <xs:field xpath="mstns:id_Familia" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="FK_TableFamilias_TableProveedor" msdata:parent="TableProveedor" msdata:child="TableFamilias" msdata:parentkey="id_Proveedor" msdata:childkey="id_Proveedor" msprop:Generator_UserChildTable="TableFamilias" msprop:Generator_ChildPropName="GetTableFamiliasRows" msprop:Generator_UserRelationName="FK_TableFamilias_TableProveedor" msprop:Generator_ParentPropName="TableProveedorRow" msprop:Generator_RelationVarName="relationFK_TableFamilias_TableProveedor" msprop:Generator_UserParentTable="TableProveedor" />
+      <msdata:Relationship name="FK_TableFamilias_TableProveedor1" msdata:parent="TableProveedor" msdata:child="TableFamilias1" msdata:parentkey="id_Proveedor" msdata:childkey="id_Proveedor" msprop:Generator_UserChildTable="TableFamilias1" msprop:Generator_ChildPropName="GetTableFamilias1Rows" msprop:Generator_UserRelationName="FK_TableFamilias_TableProveedor1" msprop:Generator_ParentPropName="TableProveedorRow" msprop:Generator_RelationVarName="relationFK_TableFamilias_TableProveedor1" msprop:Generator_UserParentTable="TableProveedor" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

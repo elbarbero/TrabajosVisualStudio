@@ -1,0 +1,43 @@
+C:\Users\alumnoDAM\AppData\Local\Temporary Projects\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.FAlta.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.FConsultar.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.WFPrincipal.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.pdb
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.exe.config
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.exe
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.xml
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.pdb
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.exe
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.pdb
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.xml
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.vbprojResolveAssemblyReference.cache
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.FAlta.resources
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.FConsultar.resources
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.WFPrincipal.resources
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.Resources.resources
+C:\Users\alumnoDAM\Desktop\EXAMEN DDI 1EV\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.vbproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.FAlta.resources
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.FConsultar.resources
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.WFPrincipal.resources
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.Resources.resources
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.vbproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.exe
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.xml
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\obj\Debug\MARIO_ExamWF_1ev.pdb
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.exe.config
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.exe
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.pdb
+C:\Users\Mario\Desktop\MARIO_ExamWF_1ev\MARIO_ExamWF_1ev\bin\Debug\MARIO_ExamWF_1ev.xml

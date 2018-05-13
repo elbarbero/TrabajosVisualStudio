@@ -1,0 +1,14 @@
+C:\Users\alumnoDAM\AppData\Local\Temporary Projects\P_EjemploBD\bin\Debug\P_EjemploBD.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\bin\Debug\P_EjemploBD.exe.config
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\bin\Debug\P_EjemploBD.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\bin\Debug\P_EjemploBD.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\bin\Debug\P_EjemploBD.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\obj\Debug\P_EjemploBD.Form1.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\obj\Debug\P_EjemploBD.Resources.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\obj\Debug\P_EjemploBD.vbproj.GenerateResource.Cache
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\obj\Debug\P_EjemploBD.exe
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\obj\Debug\P_EjemploBD.xml
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\obj\Debug\P_EjemploBD.pdb
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\obj\Debug\P_EjemploBD.Form2.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\obj\Debug\P_EjemploBD.Form3.resources
+D:\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_EjemploBD\P_EjemploBD\obj\Debug\P_EjemploBD.Form4.resources

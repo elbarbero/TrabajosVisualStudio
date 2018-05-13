@@ -1,0 +1,12 @@
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\bin\Debug\Ej3_NumCuenta_WFORM.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\bin\Debug\Ej3_NumCuenta_WFORM.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\bin\Debug\Ej3_NumCuenta_WFORM.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\bin\Debug\Ej3_NumCuenta_WFORM.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\obj\Debug\Ej3_NumCuenta_WFORM.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\obj\Debug\Ej3_NumCuenta_WFORM.Form1.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\obj\Debug\Ej3_NumCuenta_WFORM.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\obj\Debug\Ej3_NumCuenta_WFORM.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\obj\Debug\Ej3_NumCuenta_WFORM.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\obj\Debug\Ej3_NumCuenta_WFORM.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\obj\Debug\Ej3_NumCuenta_WFORM.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej3_NumCuenta_WFORM\Ej3_NumCuenta_WFORM\obj\Debug\Ej3_NumCuenta_WFORM.pdb

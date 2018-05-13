@@ -1,0 +1,252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+P_Academia_2018
+</name>
+</assembly>
+<members>
+<member name="P:P_Academia_2018.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:P_Academia_2018.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:P_Academia_2018.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnosapDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnoscursosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.cursosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.cursos_nuevaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.notasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.profesoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.tcontadorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.tresultadoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnos1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.DataTable2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnosapRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnoscursosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.cursosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.cursos_nuevaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.notasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.profesoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.tcontadorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.tresultadoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnos1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.DataTable2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnosapRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnoscursosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.cursosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.cursos_nuevaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.notasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.profesoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.tcontadorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.tresultadoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.alumnos1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet.DataTable2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.alumnosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.alumnosapTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.alumnoscursosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.cursosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.cursos_nuevaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.notasTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.profesoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.tcontadorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.tresultadoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.alumnos1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.DataTable2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:P_Academia_2018.BDacademiaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(P_Academia_2018.BDacademiaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:P_Academia_2018.BDacademiaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(P_Academia_2018.BDacademiaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:P_Academia_2018.BDacademiaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(P_Academia_2018.BDacademiaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:P_Academia_2018.BDacademiaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:P_Academia_2018.BDacademiaDataSetTableAdapters.TableAdapterManager.UpdateAll(P_Academia_2018.BDacademiaDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:P_Academia_2018.BDacademiaDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

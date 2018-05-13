@@ -1,0 +1,89 @@
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.exe.config
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.ResolveComReference.cache
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.exe
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.xml
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.pdb
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.exe
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.pdb
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.xml
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.ConsultarConsumoDia.resources
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Contratos.resources
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.ComprobarArchivo.resources
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Resources.resources
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Estadisticas.resources
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.GanaciaSemanal.resources
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.PotenciaMedia.resources
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Pricipal.resources
+C:\Users\alumnoDAM\Desktop\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.ResolveComReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.ConsultarConsumoDia.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Contratos.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.ComprobarArchivo.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Estadisticas.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.GanaciaSemanal.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.PotenciaMedia.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Pricipal.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.xml
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.exe.config
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.exe
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.pdb
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\bin\Debug\P_WF_Electrica.xml
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbprojResolveAssemblyReference.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.ResolveComReference.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.ConsultarConsumoDia.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Contratos.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.ComprobarArchivo.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Resources.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Estadisticas.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.GanaciaSemanal.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.PotenciaMedia.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.Pricipal.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.GenerateResource.Cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.CoreCompileInputs.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.exe
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.xml
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\P_WF_Electrica_2\P_WF_Electrica\obj\Debug\P_WF_Electrica.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.ResolveComReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.ConsultarConsumoDia.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.Contratos.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.ComprobarArchivo.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.Estadisticas.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.GanaciaSemanal.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.PotenciaMedia.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.Pricipal.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.pdb
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbprojResolveAssemblyReference.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.ResolveComReference.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.ConsultarConsumoDia.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.Contratos.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.ComprobarArchivo.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.Resources.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.Estadisticas.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.GanaciaSemanal.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.PotenciaMedia.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.Pricipal.resources
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.GenerateResource.Cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica2.vbproj.CoreCompileInputs.cache
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.exe
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.xml
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\obj\Debug\P_WF_Electrica.pdb
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\bin\Debug\P_WF_Electrica.exe.config
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\bin\Debug\P_WF_Electrica.exe
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\bin\Debug\P_WF_Electrica.pdb
+C:\Users\Mario-Portatil\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_WF_Electrica\P_WF_Electrica\bin\Debug\P_WF_Electrica.xml

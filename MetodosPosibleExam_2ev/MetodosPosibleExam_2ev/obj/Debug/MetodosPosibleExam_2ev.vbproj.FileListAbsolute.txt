@@ -1,0 +1,30 @@
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\bin\Debug\MetodosPosibleExam_2ev.exe.config
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\bin\Debug\MetodosPosibleExam_2ev.exe
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\bin\Debug\MetodosPosibleExam_2ev.pdb
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\bin\Debug\MetodosPosibleExam_2ev.xml
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.Form1.resources
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.Resources.resources
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.vbproj.GenerateResource.Cache
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.exe
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.xml
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.pdb
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.Form2.resources
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.vbproj.ResolveComReference.cache
+C:\Users\Mario\Desktop\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.Form3.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\bin\Debug\MetodosPosibleExam_2ev.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\bin\Debug\MetodosPosibleExam_2ev.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\bin\Debug\MetodosPosibleExam_2ev.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\bin\Debug\MetodosPosibleExam_2ev.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.vbproj.ResolveComReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.Form1.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.Form2.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.Form3.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MetodosPosibleExam_2ev\MetodosPosibleExam_2ev\obj\Debug\MetodosPosibleExam_2ev.pdb

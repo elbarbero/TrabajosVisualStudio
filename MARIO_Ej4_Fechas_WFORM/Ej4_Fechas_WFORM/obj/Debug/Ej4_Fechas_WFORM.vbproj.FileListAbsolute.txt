@@ -1,0 +1,12 @@
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\bin\Debug\Ej4_Fechas_WFORM.exe.config
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\bin\Debug\Ej4_Fechas_WFORM.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\bin\Debug\Ej4_Fechas_WFORM.pdb
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\bin\Debug\Ej4_Fechas_WFORM.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\obj\Debug\Ej4_Fechas_WFORM.vbprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\obj\Debug\Ej4_Fechas_WFORM.Form1.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\obj\Debug\Ej4_Fechas_WFORM.Resources.resources
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\obj\Debug\Ej4_Fechas_WFORM.vbproj.GenerateResource.Cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\obj\Debug\Ej4_Fechas_WFORM.vbproj.CoreCompileInputs.cache
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\obj\Debug\Ej4_Fechas_WFORM.exe
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\obj\Debug\Ej4_Fechas_WFORM.xml
+C:\Users\Mario\Documents\Grado Superior Desarrollo de Aplicaciones Multiplataforma\2 CURSO\Proyectos VisualStudio\MARIO_Ej4_Fechas_WFORM\Ej4_Fechas_WFORM\obj\Debug\Ej4_Fechas_WFORM.pdb
